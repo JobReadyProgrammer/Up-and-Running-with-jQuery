@@ -6,6 +6,8 @@ Acquire the most in-demand skills needed for web-development and become an indus
 
 This GitHub Repository will include the Source Code for [Up and Running with jQuery](https://www.jobreadyprogrammer.com/p/up-and-running-with-jquery) from JRP (Job Ready Programmer)
 
+(Work in progress ⏳)
+
 ### Note for newcomers
 
 Checkout our complete course on the following platforms:
@@ -15,12 +17,21 @@ Checkout our complete course on the following platforms:
 
 ## About the course :
 
-- According to W3 Techs usage statistics, jQuery is the most widely used Javascript library in the world. More than 72% of all websites use jQuery for dynamic content. jQuery has become the backbone for all modern web frameworks like Angular JS, Node JS and Bootstrap. The reason for this is that Javascript alone takes much too long to develop in today's fast-paced startup culture. Web Development should be efficient and less error prone. jQuery addresses this very problem and employers now care more about the expertise you have in jQuery so that you can hit the ground running with whatever web-framework it is that they may be using. jQuery is really an essential library to do anything useful in a web project in a timely manner!
-- My goal behind creating this course was to get you up and running in jQuery to the stage where you are desirable to employers. I've designed this course to leave no student behind so that anyone with a little bit of CSS and HTML knowledge can get up and running quickly with jQuery and acquire the in-demand skills such as DOM Traversal and Manipulation, Event handling and Ajax. These are the 3 core areas needed for claiming efficiency in the jQuery library required by virtually all employers. The course is full of practical assignments to test your knowledge with detailed solutions so that you can master the content. I'm certain that this course will prove tremendously valuable for you! I look forward to seeing you in my course.
+- According to W3 Techs usage statistics, jQuery is the most widely used Javascript library in the world. More than 72% of all websites use jQuery for dynamic content.
+- jQuery has become the backbone for all modern web frameworks like Angular JS, Node JS and Bootstrap.
+- The reason for this is that Javascript alone takes much too long to develop in today's fast-paced startup culture.
+- Web Development should be efficient and less error prone.
+- jQuery addresses this very problem and employers now care more about the expertise you have in jQuery so that you can hit the ground running with whatever web-framework it is that they may be using.
+- jQuery is really an essential library to do anything useful in a web project in a timely manner!
+- My goal behind creating this course was to get you up and running in jQuery to the stage where you are desirable to employers.
 
 ## Topics covered in this course :
 
-- 
+- I've designed this course to leave no student behind so that anyone with a little bit of CSS and HTML knowledge can get up and running quickly with jQuery and acquire the in-demand skills such as DOM Traversal and Manipulation, Event handling and Ajax.
+- These are the 3 core areas needed for claiming efficiency in the jQuery library required by virtually all employers.
+- The course is full of practical assignments to test your knowledge with detailed solutions so that you can master the content. I'm certain that this course will prove tremendously valuable for you! 
+
+I look forward to seeing you in my course.
 
 ### Contact us
 - Learn more: [jobreadyprogrammer.com](https://jobreadyprogrammer.com/)
